@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-SNS : 
+SNS : envelope
 <a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-000000?style+flat-square&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://www.facebook.com/profile.php?id=100006731596533&mibextid=ZbWKwL" target="blank"> 
