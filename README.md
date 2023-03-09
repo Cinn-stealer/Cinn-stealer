@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-
+<div>
 <a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-000000?style+flat-square&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://www.facebook.com/profile.php?id=100006731596533&mibextid=ZbWKwL" target="blank"> 
 <img src="https://img.shields.io/badge/Faecebook-1877F2?style+flat-square&logo=Facebook&logoColor=white"/></a>
-
+</div>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
