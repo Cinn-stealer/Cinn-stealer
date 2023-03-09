@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-000000?style+flat-square&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/Faecebook-1877F2?style+flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-000000?style+flat-square&logo=Instagram&logoColor=white"/><nbsp;><img src="https://img.shields.io/badge/Faecebook-1877F2?style+flat-square&logo=Facebook&logoColor=white"/></a>
 
 
 
