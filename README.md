@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-E4405F?style+flat-square&logo=Instagram&logoColor=white"/></a>
+
 <!--
 **Cinn-stealer/Cinn-stealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-E4405F?style+flat-square&logo=Instagram&logoColor=white"/></a>
 -->
