@@ -1,6 +1,6 @@
 ### 👋 Welcome to my Git-hub 👋
 
-<div aligin= "center">
+<div>
 💬 SNS : 
 <a href="https://instagram.com/sungm1nk1?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://img.shields.io/badge/Sungm1nk1-000000?style+flat-square&logo=Instagram&logoColor=white"/></a>
 
