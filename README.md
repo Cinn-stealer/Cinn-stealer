@@ -1,4 +1,4 @@
-### 👋 Welcome to my Git-hub 👋
+### 👋 Welcome to my Git-hub <:wavbe>👋
 
 <div>
 💬 SNS : 
